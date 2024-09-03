@@ -4,3 +4,5 @@
 ## [Тест-кейсы из QASE](https://github.com/PetrGladkikh/docs/blob/main/Test%20Suite%20Petr%20Gladkikh.pdf)
 ## [Таблица с отчетами о дефекте](https://github.com/PetrGladkikh/docs/blob/main/Issues%20Petr%20Gladkikh.xlsx)
 ## [Результат тестового прогона QASE](https://github.com/PetrGladkikh/docs/blob/main/G8-Express%2Brun%2B2024_08_25%20Petr%20Gladkikh.pdf)
+## [Обновленная таблица с чек-листами для тестирования интернет-магазина](https://docs.google.com/spreadsheets/d/1fzzIkGTq1OZfE3YBwHCOP8rU930XB3tTtJsD_BZ0owE/edit?gid=867006152#gid=867006152)
+## [Тест-кейсы для тестирования каталога и корзины](https://github.com/PetrGladkikh/docs/blob/main/Web%20App%20Test%20Suite%20Petr%20Gladkikh%20.pdf)
